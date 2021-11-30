@@ -13,7 +13,7 @@ function LoginForm({Login,error}) {
 
     const submitHandler = e =>{
     //     Login(details);  
-        
+        //console.log(details)
     }  
     return (
         <form onSubmit={submitHandler}> 
